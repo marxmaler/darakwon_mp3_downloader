@@ -1,7 +1,7 @@
 import os
 from download_mp3 import download_mp3 as dm
 
-book_name = "신공략중국어독해_초급에서중급으로"
+book_name = "내게는 특별한 프랑스어 어휘를 부탁해"
 cwd = os.getcwd() #현재 작업 경로(폴더)
 
 directory = f"{cwd}/{book_name}"
